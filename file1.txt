@@ -1,0 +1,10 @@
+This is the contents of the file
+file1.txt
+line 3
+line 4
+line 5
+this is the end. :)
+devops 
+opsdev
+development and operations
+operations and development.
