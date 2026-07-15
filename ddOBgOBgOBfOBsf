@@ -1,0 +1,36 @@
+[33mcommit c1424db5e081bdd5e0c01c32c0b4339585993491[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: shivG1zmo <shivramc825@gmail.com>
+Date:   Mon Jul 13 06:22:13 2026 +0000
+
+    File4
+
+ file3.txt | 1 [32m+[m
+ file4.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
+
+[33mcommit d75da4d66a1b3f9b72b16abf5ab6f32401e522b8[m
+Author: shivG1zmo <shivramc825@gmail.com>
+Date:   Mon Jul 13 06:14:03 2026 +0000
+
+    New file2 created
+
+ file2.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 37fbc00e2d4c2dc80dc94652ef3454cd3a9ad0c0[m
+Author: shivG1zmo <shivramc825@gmail.com>
+Date:   Mon Jul 13 04:44:39 2026 +0000
+
+    Second Update
+
+ file1.txt | 4 [32m++++[m
+ 1 file changed, 4 insertions(+)
+
+[33mcommit 14b26e95883edd603d66e978922e1c4f77d6224f[m
+Author: shivG1zmo <shivramc825@gmail.com>
+Date:   Mon Jul 13 04:38:57 2026 +0000
+
+    First Update
+
+ file1.txt | 10 [32m++++++++++[m
+ 1 file changed, 10 insertions(+)
